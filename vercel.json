@@ -1,8 +1,0 @@
-{
-  {
-    "version": 2,
-    "buildCommand": "node run index.js",
-    "outputDirectory": "dist"
-  }
-  
-}
