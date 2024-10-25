@@ -1,7 +1,7 @@
 {
   {
     "version": 2,
-    "buildCommand": "npm run index.js",
+    "buildCommand": "node run index.js",
     "outputDirectory": "dist"
   }
   
